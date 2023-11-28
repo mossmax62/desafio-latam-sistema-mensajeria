@@ -10,7 +10,7 @@
 .main-container {
     display: flex;
     flex-direction: row;
-    height: 100vh;
+    /*height: 100vh;*/
 }
 
 h3,
@@ -48,6 +48,7 @@ h4 {
 }
 
 .content-container {
+    
     width: 100%;
     background-color: #E8EBE4;
     flex-direction: column;
